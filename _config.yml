@@ -128,3 +128,17 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# fixes "No GitHub API authentication" error
+github: [metadata]
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-42943232-2"
+    anonymize_ip: false # default
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "nsanghi"
