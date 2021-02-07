@@ -31,9 +31,11 @@ github_username: nsanghi
 minimal_mistakes_skin: default
 search: true
 
+repository: nsanghi/nsanghi.github.io
+
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.22.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
