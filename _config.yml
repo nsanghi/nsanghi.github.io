@@ -142,3 +142,5 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "nsanghi"
+
+url: "nsanghi.com"
